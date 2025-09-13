@@ -1,16 +1,26 @@
-## Hi there 👋
-<h1>Hello Wolrd</h1>
-<!--
-**LucasSantos555/LucasSantos555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou o Lucas! 👋
 
-Here are some ideas to get you started:
+Sou um estudante de Engenharia de Computação obcecado por cruzar as fronteiras entre software e hardware. Atualmente, estou focando meus estudos em entender a fundo como a programação e a eletrônica se unem para dar vida a projetos incríveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### O que estou fazendo agora
+
+- 🔭 **Estou trabalhando em:** projetos pessoais com microcontroladores para aprimorar minhas habilidades de programação de baixo nível e aplicação prática dos conceitos que aprendo.
+- 🌱 **Atualmente, estou aprendendo:**
+  - Linguagens de programação como C, C++, Python e Java.
+  - Fundamentos de eletrônica digital e analógica, para entender o "porquê" por trás do hardware.
+- 👯 **Busco colaborar em:** projetos de código aberto que envolvam automação, IoT ou qualquer coisa que conecte software a hardware.
+
+---
+
+### Habilidades e Ferramentas
+
+- **Linguagens de Programação:** C, C++, Python, Java
+- **Áreas de Estudo:** Eletrônica Analógica, Eletrônica Digital, Microcontroladores
+- **Ferramentas:** Git, Vários IDEs (como VS Code)
+
+---
+
+
+
